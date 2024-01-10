@@ -14,5 +14,7 @@
 ##### • LINE API 연동 및 메세지 전송
 
 ## 📄 프로그램 구성도 및 YOLO 학습 결과
+![123](https://github.com/inhwanGit/Wild-boar-elk-eradication-and-fire-notification-programs/assets/132810591/e059425e-36e7-4759-861b-af71f2b899af)
+<img width="647" alt="345" src="https://github.com/inhwanGit/Wild-boar-elk-eradication-and-fire-notification-programs/assets/132810591/34a54081-cec3-4bd2-a6fc-36473c2dfeff">
 
 ## 👀 서비스 화면
