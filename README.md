@@ -19,5 +19,8 @@
 
 ## 👀 서비스 화면
 ![4555](https://github.com/inhwanGit/Wild-boar-elk-eradication-and-fire-notification-programs/assets/132810591/1612f179-a37b-407d-b10b-cead15dd2ec5)
+##### • 멧돼지 객체 탐지 후 LINE에 전송
 ![ㅁㄴㅇ](https://github.com/inhwanGit/Wild-boar-elk-eradication-and-fire-notification-programs/assets/132810591/7d1bf363-1c8b-433a-9ea9-dfc9c859c67e)
+##### • 고라니 객체 탐지 후 LINE에 전송 
 ![ㅇㅁㄴㅇㅁ](https://github.com/inhwanGit/Wild-boar-elk-eradication-and-fire-notification-programs/assets/132810591/0f4e7dec-1502-41d6-bc59-da023da4b806)
+##### • 화재 객체 탐지 후 LINE에 전송
